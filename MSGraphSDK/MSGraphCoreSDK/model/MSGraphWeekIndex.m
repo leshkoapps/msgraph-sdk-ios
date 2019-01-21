@@ -2,7 +2,7 @@
 
 
 
-#include <MSGraphWeekIndex.h>
+#import "MSGraphWeekIndex.h"
 
 @interface MSGraphWeekIndex () {
     MSGraphWeekIndexValue _enumValue;

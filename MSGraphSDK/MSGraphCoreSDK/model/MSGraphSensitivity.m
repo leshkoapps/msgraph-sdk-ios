@@ -2,7 +2,7 @@
 
 
 
-#include <MSGraphSensitivity.h>
+#import "MSGraphSensitivity.h"
 
 @interface MSGraphSensitivity () {
     MSGraphSensitivityValue _enumValue;

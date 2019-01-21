@@ -2,7 +2,7 @@
 
 
 
-#include <MSGraphImportance.h>
+#import "MSGraphImportance.h"
 
 @interface MSGraphImportance () {
     MSGraphImportanceValue _enumValue;

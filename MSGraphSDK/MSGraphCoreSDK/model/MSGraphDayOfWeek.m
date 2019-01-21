@@ -2,7 +2,7 @@
 
 
 
-#include <MSGraphDayOfWeek.h>
+#import "MSGraphDayOfWeek.h"
 
 @interface MSGraphDayOfWeek () {
     MSGraphDayOfWeekValue _enumValue;

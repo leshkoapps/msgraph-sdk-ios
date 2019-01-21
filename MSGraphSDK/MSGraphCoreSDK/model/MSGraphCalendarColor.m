@@ -2,7 +2,7 @@
 
 
 
-#include <MSGraphCalendarColor.h>
+#import "MSGraphCalendarColor.h"
 
 @interface MSGraphCalendarColor () {
     MSGraphCalendarColorValue _enumValue;

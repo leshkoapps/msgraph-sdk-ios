@@ -2,7 +2,7 @@
 
 
 
-#include <MSGraphResponseType.h>
+#import "MSGraphResponseType.h"
 
 @interface MSGraphResponseType () {
     MSGraphResponseTypeValue _enumValue;

@@ -2,7 +2,7 @@
 
 
 
-#include <MSGraphFreeBusyStatus.h>
+#import "MSGraphFreeBusyStatus.h"
 
 @interface MSGraphFreeBusyStatus () {
     MSGraphFreeBusyStatusValue _enumValue;

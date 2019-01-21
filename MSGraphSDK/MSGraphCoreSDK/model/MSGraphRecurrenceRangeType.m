@@ -2,7 +2,7 @@
 
 
 
-#include <MSGraphRecurrenceRangeType.h>
+#import "MSGraphRecurrenceRangeType.h"
 
 @interface MSGraphRecurrenceRangeType () {
     MSGraphRecurrenceRangeTypeValue _enumValue;
